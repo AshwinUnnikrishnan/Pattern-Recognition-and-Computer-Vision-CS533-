@@ -1,0 +1,3 @@
+/Users/histravelstories/Desktop/ComputerVision/startProject/CMakeFiles/startProject.dir
+/Users/histravelstories/Desktop/ComputerVision/startProject/CMakeFiles/edit_cache.dir
+/Users/histravelstories/Desktop/ComputerVision/startProject/CMakeFiles/rebuild_cache.dir
