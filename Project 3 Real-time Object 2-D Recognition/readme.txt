@@ -1,17 +1,19 @@
-1. URL to Wiki Page : https://wiki.khoury.northeastern.edu/x/KIp5Bg
 
-2. Operating System: macOS Monterey
+1. Khoury Wiki link: https://wiki.khoury.northeastern.edu/x/YaJ5Bg
 
-3. IDE: Visual Studio Code 1.63.2
+2. Video Recording of Assignment: Already links are present in the wiki
 
-4. Instruction for running executables
-	i) Create Directories src, lib, include and put the wxwidgets in the same directory
-	ii) Based on the CMakeLists.txt place the files in appropriate directories
+3. Operating System: macOS Monterey
 
-5. Build and run the code
-	i) GUI pop up, its always necessary to provide the image and the photo directory to search from.
-	ii) CSV will be picked automatically or build automatically if not provided.
-	iii) The number of results to return also can be provided from the user end.
-	iv) The input image and the matching ones upto 7 are displayed on the GUI.
+4. IDE: Visual Studio Code 1.63.2
 
-6. I had a COVID booster shot on 15/2/2022, and have conveyed the same to the professor. 
+5. Instruction for running executables
+	i) Create Directories src, lib, include
+	ii) Put imgDisplay.cpp and vidDisplay.cpp to src directory.
+	iii) Put includeFile.h and filter.h to include directory
+	iv) Put filter.cpp inside lib directory
+
+6. CMakeLists.txt is provided along with the code( adding the same below here )
+	Need to change to imgDisplay.cpp or vidDisplay.cpp when we want to run the respective program.
+
+7. All the filter effects and how to see them during execution are shown in the wiki and it can also be seen live when running the program in the program window.
